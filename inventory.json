@@ -1,0 +1,10 @@
+[
+    {
+        "product_id": "Laptop",
+        "name": "P001",
+        "price": 1999.0,
+        "stock": 10,
+        "type": "physical",
+        "weight": 2.4
+    }
+]
